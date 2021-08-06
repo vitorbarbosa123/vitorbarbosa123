@@ -26,7 +26,7 @@
 <div> 
   <a href = "mailto:vitorbarbosa1337@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitorbarbosaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://portifolio-six-roan.vercel.app/"></a>
+   <a href="https://portifolio-six-roan.vercel.app/"><img src="https://img.shields.io/badge/-portifolio-%23333?style=for-the-badge&logo=portifolio&logoColor=white" target="_blank"></a>
  
 
  
