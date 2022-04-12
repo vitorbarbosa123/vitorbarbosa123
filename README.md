@@ -1,8 +1,4 @@
-### Hello ⚡⚡⚡
-
-   My name is Vitor, I'm 20 years old and I'm a student of Computer Science and Front-end developer. I like to do cool things with CSS and ES6+. 
-    Currently, i learn about Back-end and IA with python while training my skills in Front-end :p . 
-
+ 
  <div>
   <a href="https://github.com/vitorbarbosa123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbarbosa123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
